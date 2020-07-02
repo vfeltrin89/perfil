@@ -5,7 +5,7 @@
 ## Things I like to do
 
 - Tech
->> I have
+  *I have more than 5 years of experience*
 - Beer
 - Football
 - Music
