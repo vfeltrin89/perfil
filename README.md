@@ -1,8 +1,8 @@
 # Vinicius Feltrin
 
-> Estudando para se tornar um **desenvolvedor de software**
+> Studying to become a **software developer**
 
-## Coisas que eu gosto de fazer
+## Things I like to do
 
 - Tech
 - Beer
