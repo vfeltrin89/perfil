@@ -6,11 +6,11 @@
 
 - **Tech**
     -  *I have more than 5 years of experience*
-- Playing drums
+- **Playing drums**
     - *I used to have a rock band*
-- Watching football
+- **Watching football**
     - *I support Corinthians*
-- Listening music
+- **Listening music**
     - *I enjoy listening to english songs*
 - Here is my [Linkedin](https://www.linkedin.com/in/vfeltrin/).
 
