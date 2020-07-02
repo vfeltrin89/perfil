@@ -8,3 +8,5 @@
 - Beer
 - Football
 - Music
+- Here is my [Linkedin](https://www.linkedin.com/in/vfeltrin/).
+
