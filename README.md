@@ -5,7 +5,7 @@
 ## Things I like to do
 
 - **Tech**
-    -  *I have more than 5 years of experience*
+    -  *I have more than 5 years of experience in IT Support, but I'm learning how to code*
 - **Playing drums**
     - *I used to have a rock band*
 - **Watching football**
