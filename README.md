@@ -4,13 +4,13 @@
 
 ## Things I like to do
 
-- **Tech**
+- **Tech :computer:**
     -  *I have more than 5 years of experience in IT Support, but I'm learning how to code*
-- **Playing drums**
+- **Playing :drum:**
     - *I used to have a rock band*
-- **Watching football**
+- **Watching :soccer:**
     - *I support Corinthians*
-- **Listening music**
+- **Listening :musical_note:**
     - *I enjoy listening to english songs*
-- Here is my [Linkedin](https://www.linkedin.com/in/vfeltrin/) and [Instagram](https://www.instagram.com/vinifeltrin).
+
 
